@@ -5,18 +5,15 @@
 # variable = কোন কিছুর ভ্যালু জমা রাখতে ব্যাবহার করা হয়
 
 
-
+# Data Types---
+    # int() => integer / সংখ্যাকে বুঝাতে ব্যাবহৃত হয়
+    # float() => দশমিক সংখ্যা কে বুঝাতে ব্যাবহৃত হয় 
+    # str() => String / text লিখতে ব্যাবহৃত হয়
+    # bool() => true / falsr বুঝাতে ব্যাবহৃত হয়
 
 
 print(27)
-
-
-
-
-
 print("Hello")
-
-
 
 print(type(27))
 # print(type("Hello"))
@@ -27,3 +24,5 @@ first_name = input("Whats your first name: ")
 last_name = input("Whats your last name: ")
 
 print("Thenge thenge to " + first_name + " " + last_name)
+
+
